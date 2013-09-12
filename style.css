@@ -1,0 +1,32 @@
+body{
+	font-family:sans-serif;
+	background-color:grey;
+}
+#wrapper{
+	width:1200px;
+	margin:auto;
+	margin-top:25px;
+}
+
+#headder{
+    font-size:3em;
+    color:white;
+}
+
+.pixel{
+    border:1px solid;
+    border-color:grey;
+    height:40px;
+    width:40px;
+    float:left;
+}
+
+#content{
+    width:86px;
+    height:86px;
+/*    float:left;*/
+/*    border:1px solid red;*/
+}
+button{
+    width:84px;
+}
